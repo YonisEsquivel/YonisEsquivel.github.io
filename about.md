@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.picture }})
+![Profile Image]({{ site.url }}/{{ site.picture }})
 
 
 <p>Tecnólogo en Desarrollo de Software de la Universidad Tecnológica de Bolívar. Apasionado por la programación, las nuevas tecnologías y tener mente abierta con respecto a estas.</p>
